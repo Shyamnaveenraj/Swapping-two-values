@@ -18,7 +18,13 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
+'''
+a,b=int(input()),int(input())
+a,b=b,a
+print("Swapped values are:",a,b)
+'''
+## output:
+![output](./pyt.png)
 
 
 ## RESULT:
